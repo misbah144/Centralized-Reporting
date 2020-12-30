@@ -6,18 +6,32 @@ This is a c# (Asp.net) WEB based Centralized Reporting Application that can be u
 Features:
 
 -User based password protected access for users(within the  organization). 
+
 -User have different access based on their authorization level.
+
 -Relevent reports can be view by users based on their access level. 
+
 -Use of ssrs reporting server along with crystal reports.
+
 -Reports can be extracted on differents formats i.e(pdf,xlsx,csv, txt).
+
 -Logs of user activity also maintained and monitored by admin user in order to identify data leaks.
+
 -Admin user can set/revoke access of users(within the organization).
 
 
-setup:
+Setup:
 
-C# ASP.NET framework required.
-Java Script must be enabled for web browser.
-Microsoft SSRS report server required.  
-Crystal Reports 9 or above must be installed(to view reports).
-IIS web server required (built in with windows) to deploy this web application. 
+-C# ASP.NET framework required.
+
+-Java Script must be enabled for web browser.
+
+-Microsoft SSRS report server required.  
+
+-Crystal Reports 9 or above must be installed(to view reports).
+
+-IIS web server required (built in with windows) to deploy this web application. 
+
+
+(*COMPLETE CODE WILL BE AVAILABLE ON DEMAND)
+
